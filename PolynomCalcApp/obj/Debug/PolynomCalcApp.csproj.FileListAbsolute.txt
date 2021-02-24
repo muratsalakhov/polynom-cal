@@ -1,0 +1,10 @@
+D:\Workspace\polynomial\PolynomCalcApp\PolynomCalcApp\bin\Debug\PolynomCalcApp.exe.config
+D:\Workspace\polynomial\PolynomCalcApp\PolynomCalcApp\bin\Debug\PolynomCalcApp.exe
+D:\Workspace\polynomial\PolynomCalcApp\PolynomCalcApp\bin\Debug\PolynomCalcApp.pdb
+D:\Workspace\polynomial\PolynomCalcApp\PolynomCalcApp\obj\Debug\PolynomCalcApp.csprojAssemblyReference.cache
+D:\Workspace\polynomial\PolynomCalcApp\PolynomCalcApp\obj\Debug\PolynomCalcApp.Form1.resources
+D:\Workspace\polynomial\PolynomCalcApp\PolynomCalcApp\obj\Debug\PolynomCalcApp.Properties.Resources.resources
+D:\Workspace\polynomial\PolynomCalcApp\PolynomCalcApp\obj\Debug\PolynomCalcApp.csproj.GenerateResource.cache
+D:\Workspace\polynomial\PolynomCalcApp\PolynomCalcApp\obj\Debug\PolynomCalcApp.csproj.CoreCompileInputs.cache
+D:\Workspace\polynomial\PolynomCalcApp\PolynomCalcApp\obj\Debug\PolynomCalcApp.exe
+D:\Workspace\polynomial\PolynomCalcApp\PolynomCalcApp\obj\Debug\PolynomCalcApp.pdb
