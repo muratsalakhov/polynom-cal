@@ -3,8 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTestProject1.SystemTest
 {
-    //[CodedUITest]
-    [TestClass]
+    [CodedUITest]
     public class SystemTest
     {
         public SystemTest () {}
@@ -12,12 +11,11 @@ namespace UnitTestProject1.SystemTest
         [TestMethod]
         public void CodedPolynomCalcCheck()
         {
-            Assert.AreEqual(true, true);
-            /*this.UIMap.openApplication();
+            this.UIMap.openApplication();
             this.UIMap.typeText();
             this.UIMap.clickRun();
             this.UIMap.assertPolynomCalc();
-            this.UIMap.closeApplication();*/
+            this.UIMap.closeApplication();
         }
     }
 }
