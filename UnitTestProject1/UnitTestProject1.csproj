@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IntegrationTest\IntegrationTest.cs" />
+    <Compile Include="SystemTest\CodedUITestAttribute.cs" />
+    <Compile Include="SystemTest\SystemTest.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnitTest2.cs" />
